@@ -1,0 +1,46 @@
+Testcase id :506381026
+
+-- Tags for SOFTWARE
+
+#Platform :15940.0.0
+#Ash version :128.0.6568.0
+#Channel :dev
+#Ash:yes
+#Arch :x86
+
+#Area:Video Conferencing
+
+-- Hardware tags
+
+#Btmouse:none
+#Btmouse:none
+#Btkeyboard: none
+#Btkeyboard:none
+#Btheadset:none
+#Cables:none
+#Camera:none
+#Dock:none
+#Fitnesstracker:none
+#Gamecontroller:none
+#Headphone:none
+#Headset:none
+#Hub:none
+#Keyboard:none
+#Microphone:none
+#Monitor:none
+#Mouse:none
+#Neckband:none
+#Nesthub:none
+#Pendrive:none
+#Pixel:none
+#Printer:none
+#Ram:16gb
+#Router:none
+#Speaker:none
+#Spikeguard:none
+#Ssd:none
+#Stylus:none
+#Webcam:none
+#Phone:none
+#Android:none
+
